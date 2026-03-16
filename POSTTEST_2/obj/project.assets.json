@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\POSTTEST_2.vbproj",
+      "projectUniqueName": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2.vbproj",
       "projectName": "POSTTEST_2",
-      "projectPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\POSTTEST_2.vbproj",
+      "projectPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2.vbproj",
       "packagesPath": "C:\\Users\\rsdns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\obj\\",
+      "outputPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_VIS\\POSTTEST_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rsdns\\AppData\\Roaming\\NuGet\\NuGet.Config",

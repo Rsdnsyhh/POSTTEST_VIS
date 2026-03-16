@@ -1,71 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\rsdns\\source\\repos\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\rsdns\\source\\repos\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\rsdns\\source\\repos\\posttest_2\\posttest_2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7C467C1B-0915-4086-A166-8A52A8386AD1}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_VIS\\POSTTEST_2\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
-              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
-              "ToolTip": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
-              "RelativeToolTip": "POSTTEST_2\\Form1.vb",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-08T05:01:51.643Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Module1.vb",
-              "DocumentMoniker": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Module1.vb",
-              "RelativeDocumentMoniker": "POSTTEST_2\\Module1.vb",
-              "ToolTip": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Module1.vb",
-              "RelativeToolTip": "POSTTEST_2\\Module1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-08T05:18:28.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
-              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
-              "ToolTip": "C:\\Users\\rsdns\\source\\repos\\POSTTEST_2\\POSTTEST_2\\Form1.vb [Design]",
-              "RelativeToolTip": "POSTTEST_2\\Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-08T04:47:41.662Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
